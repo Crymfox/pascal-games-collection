@@ -21,10 +21,12 @@ As someone who has witnessed the evolution of technology firsthand, it's fascina
 ### Snake
 - **Description**: The classic Snake game implemented in an ASCII environment.
 - **How to Play**: Control the snake to eat the food and grow, avoiding collisions with the walls and yourself.
-- **Controls**: Use the arrow keys to control the snake's movement. (Just kidding use Q, Z, D, S to control pascal doesn't support arrow keys xP)
+- **Controls**: Use the arrow keys to control the snake's movement. (Just kidding use Q, Z, D, S to control.. pascal doesn't support arrow keys xP)
 
 ## Video Demonstration
-For a visual throwback, check out the video demonstration I made back then: [Watch Video](https://youtu.be/m8L3mWG8kQ8?si=dYQoOIr85n2UsoDs)
+For a visual throwback, check out the video demonstration I made back then:
+
+[![Watch the video](https://img.youtube.com/vi/m8L3mWG8kQ8/0.jpg)](https://youtu.be/m8L3mWG8kQ8)
 
 ## How to Run These Games
 
